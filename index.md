@@ -1,26 +1,6 @@
-*heyyo!*
-**heyyo!**
-# Heyyo
-## Heyyo
-[Linkedin](https://www.linkedin.com/in/pulkitgoyall/)
----
-![Cute Peechur](https://user-images.githubusercontent.com/98442414/192686517-2b1dc391-fd24-4fe5-99db-01facd83283f.png)
+# Lab Report 1 
+Hello future students, welcome to CSE 15L. Below is a tutorial on how to get your environment set up and how to connect to the server.
 
->Heyyo!
-
-- Heyyo
-- heyyo
-- Heyyo!
-
-1. Heyyo
-2. Heyyo
-3. Heyyo
-
-'code' with backticks
-
-'''
-code block
-print "heyyo"
-print "Heyyo!"
-'''
-
+**Installing VScode:**
+Navigate to https://code.visualstudio.com/ and download the program. This will allow you to write code as well as give you access to a terminal in which you can connect to the server.
+![Image]()
