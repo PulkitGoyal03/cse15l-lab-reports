@@ -3,7 +3,6 @@ Hello future students, welcome to CSE 15L. Below is a tutorial on how to get you
 
 **Installing VScode:**
 Navigate to https://code.visualstudio.com/ and download the program. This will allow you to write code as well as give you access to a terminal in which you can connect to the server.
-
 ![Screenshot](https://user-images.githubusercontent.com/98442414/195953939-23fac949-ca6c-4118-a356-d9115784225c.png)
 
 **Remotely Connecting:**
