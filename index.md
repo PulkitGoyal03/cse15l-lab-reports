@@ -22,14 +22,14 @@
 
 ---
 ## Part 2: Questions
-*Report how long it took you to make the edit in seconds in both styles, and any difficulties or details that came up in doing so.
+***Report how long it took you to make the edit in seconds in both styles, and any difficulties or details that came up in doing so.**
 
 Making the changes and then using scp took 55 seconds whereas using vim on the server took 30 seconds. This is because you do not need to copy over the changes done. 
 
-*Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
+***Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?**
 
 I prefer using vim because it is much faster and copying over files after editing them can be very tedious and annoying at times
 
-*What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
+***What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)**
 
 Personally, I would prefer to use vim but if projects or assignments are more complex, I would use my local computer as it is easier for me to change a large amount of texts and it is more visually easy for me. I am also more comfortable on my local computer so if it is something that would take hours, I would use local rather than vim. 
