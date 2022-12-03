@@ -5,11 +5,11 @@
 /start<enter>cebase<esc>n.n.:w<enter> 
 ```
 
-* /start<enter> moves the cursor in front of "start" 
+* /start <enter> moves the cursor in front of "start" 
 
 <img width="495" alt="Screen Shot 2022-12-02 at 8 50 09 PM" src="https://user-images.githubusercontent.com/98442414/205424162-02039e2e-3de3-4fea-b386-992f0e57dbdf.png">
 
-* cebase<esc> Changes to insert mode, deletes the word "start" and types "base", then exits insert mode 
+* cebase <esc> Changes to insert mode, deletes the word "start" and types "base", then exits insert mode 
 
 <img width="451" alt="Screen Shot 2022-12-02 at 8 51 53 PM" src="https://user-images.githubusercontent.com/98442414/205424241-0d4bec45-1986-4944-862c-d9aaaeeb2776.png">
 
@@ -21,7 +21,7 @@
 
 <img width="458" alt="Screen Shot 2022-12-02 at 8 56 14 PM" src="https://user-images.githubusercontent.com/98442414/205424468-985b7af4-9485-4c19-a86f-e65957bb540e.png">
 
-* :w<enter> saves the changes done above
+* :w <enter> saves the changes done above
 
 <img width="480" alt="Screen Shot 2022-12-02 at 8 56 52 PM" src="https://user-images.githubusercontent.com/98442414/205424492-7369243b-95bc-4819-86b9-a6c33a7c5cfb.png">
 
